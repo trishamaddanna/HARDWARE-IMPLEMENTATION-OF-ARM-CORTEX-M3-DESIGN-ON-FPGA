@@ -9,7 +9,7 @@ A customized, fully synthesizable System-on-Chip (SoC) architecture built around
 The complete hardware netlist was mapped, routed, and structurally verified on a physical **Arty A7-100T FPGA platform**. The design performance metrics extracted directly from Xilinx Vivado reporting windows are detailed below:
 
 ### 1. Power Analysis Breakdown (Vivado Implemented Netlist)
-*   **Total On-Chip Power:** \(0.368\text{ W}\)
+*   **Total On-Chip Power:** 0.368W
 *   **Dynamic Circuit Power:** \(0.265\text{ W}\) (\(72\%\))
 *   **Device Static Power:** \(0.103\text{ W}\) (\(28\%\))
 
