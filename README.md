@@ -10,8 +10,8 @@ The complete hardware netlist was mapped, routed, and structurally verified on a
 
 ### 1. Power Analysis Breakdown (Vivado Implemented Netlist)
 *   **Total On-Chip Power:** 0.368W
-*   **Dynamic Circuit Power:** \(0.265\text{ W}\) (\(72\%\))
-*   **Device Static Power:** \(0.103\text{ W}\) (\(28\%\))
+*   **Dynamic Circuit Power:** 0.265 (72%)
+*   **Device Static Power:** 0.103 (28%)
 
 ### 2. Device Resource Utilization (Artix-7 XC7A100T)
 *   **Slice Look-Up Tables (LUTs):** 25,397 / 63,400 (**40.06% Utilization**)
