@@ -52,6 +52,16 @@ The hardware-software co-design flow bypasses traditional simulation limitations
 
 ---
 
+## 📂 Repository Layout & Project Artifacts
+
+All project blueprints, physical verification artifacts, and implementation toolchain reports are hosted directly within the root directory for direct access:
+
+*   `Cortex-M3 Design with IOT subsystem.jpg` — Baseline architectural block schematic showing the integrated processor and bus infrastructure.
+*   `Modified Interconnect Platform.jpg` — Hardware routing layout showcasing the custom address decoding logic and the extended 18-port matrix expansion.
+*   `lut_report.jpg` — Target board resource utilization log confirming precise slice and Look-Up Table metrics on the Artix-7 FPGA.
+*   `power_report.jpg` — Vivado implementation dynamic and device-static power analysis layout (0.368W total on-chip footprint).
+*   `Screenoutput.jpg` — Hardware-in-the-loop terminal capture verifying reliable runtime execution and memory code loading.
+*   `README.md` — Main technical specification and portfolio landing page.
 
 ---
 
