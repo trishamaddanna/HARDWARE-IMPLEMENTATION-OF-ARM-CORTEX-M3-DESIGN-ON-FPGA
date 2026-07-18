@@ -67,4 +67,4 @@ All project blueprints, physical verification artifacts, and implementation tool
 
 ## 📜 Citation & Publication Details
 This SoC architecture and physical verification pipeline are published and detailed in the following paper:
-*   **Trisha Maddanna**, Vaishnavi U, Gahan A V, *"Hardware Implementation of ARM Cortex-M3 Design on FPGA,"* **International Education and Research Journal (IERJ)**, Vol. 9, No. 12, 2024.
+*   **Trisha Maddanna**, Vaishnavi U, Gahan A V, *"Hardware Implementation of ARM Cortex-M3 Design on FPGA,"* **International Educational Applied Scientific Research Journal (IEASRJ)**, Vol. 9, No. 12, 2024.
